@@ -1,0 +1,7 @@
+Artificial Intelligence (AI) is the broad science of building computer systems that can mimic human intelligence, reasoning, and problem-solving, while Machine Learning (ML) is a core subset of AI that trains algorithms on data to learn patterns and make decisions autonomously without hard-coded rules.
+An overarching field that includes logic rules, expert systems, robotics, natural language processing (NLP), and machine learning.
+A specific approach within AI where systems use statistical models to learn from historical data rather than following static instructions.
+An advanced subset of machine learning that uses multi-layered artificial neural networks
+Artificial Intelligence (AI)	Machine Learning (ML)
+Scope	Broader field covering any method of simulating human intelligence.	Narrower subset focused strictly on data-driven learning.
+
